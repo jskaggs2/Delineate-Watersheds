@@ -1,5 +1,5 @@
 # BuildSheds
-Use arcpy tools to delineate watersheds based on user provided data and parameters.
+A watershed delineation workflow using arcpy tools and user provided data and parameters.
 
 ## vars_BuildSheds
 User data and parameter definitions.
