@@ -1,4 +1,4 @@
-# Build_Sheds
+# BuildSheds
 Use arcpy tools to delineate watersheds based on user provided data and parameters.
 
 ## vars_BuildSheds
