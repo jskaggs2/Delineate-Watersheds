@@ -2,7 +2,7 @@
 A watershed delineation workflow using arcpy tools and user provided data and parameters.
 
 ## vars_BuildSheds
-User data and parameter definitions.
+Define user data and parameters.
 
 ## main_BuildSheds
-Workflow for delineating watersheds from scratch.
+Delineate watersheds from scratch based on vars_BuildSheds.
